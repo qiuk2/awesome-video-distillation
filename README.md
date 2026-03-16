@@ -12,7 +12,7 @@
 10. LongLive: Real-time Interactive Long Video Generation [Paper](https://arxiv.org/pdf/2509.22622), ICLR 2026
 11. Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression [Paper](https://arxiv.org/pdf/2512.05081), Arxiv 2025
 12. Context Forcing: Consistent Autoregressive Video Generation with Long Context [Paper](https://arxiv.org/pdf/2602.06028), Arxiv 2026
-13. HiAR: Efficient Autoregressive Long Video Generation via Hierarchical Denoising [Paper](https://arxiv.org/pdf/2603.08703), Arxiv 2026
+13. HiAR: Efficient Autoregressive Long Video Generation via Hierarchical Denoising [Paper](https://arxiv.org/pdf/2603.08703), ICLR 2026
 14. Streaming Autoregressive Video Generation via Diagonal Distillation [Paper](https://arxiv.org/pdf/2603.09488), Arxiv 2026
 15. Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation [Paper](https://arxiv.org/pdf/2602.02214), Arxiv 2026
 16. Transition Matching Distillation for Fast Video Generation [Paper](https://arxiv.org/pdf/2601.09881), Arxiv 2026
